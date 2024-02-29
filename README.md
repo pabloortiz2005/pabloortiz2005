@@ -1,3 +1,3 @@
-# Buenas
+# Buenas, mi nombre es Pablo
 
-### Soy Pablo Ortiz tecnico en sistemas microinformaticos y redes, actualmente estoy cursando desarrollo de aplicaciones multiplataforma.
+### Soy tecnico en sistemas microinformaticos y redes, actualmente estoy cursando desarrollo de aplicaciones multiplataforma.
