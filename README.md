@@ -16,6 +16,6 @@
 2. Tengo muchas ganas de aprender
 3. Nunca me rindo
 
-Linkedin : <www.linkedin.com/in/pablo-ortiz-muñoz-8a8a6b251>
+Linkedin : www.linkedin.com/in/pablo-ortiz-muñoz-8a8a6b251
 
-   ![adios][adios.jpg] 
+   ![adios][adios.webp] 
