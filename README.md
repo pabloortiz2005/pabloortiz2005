@@ -16,4 +16,4 @@
 2. Tengo muchas ganas de aprender
 3. Nunca me rindo
 
-   ![adios][(https://www.shutterstock.com/image-vector/young-smiling-man-greeting-gesture-600nw-2271972531.jpg)https://www.shutterstock.com/image-vector/young-smiling-man-greeting-gesture-600nw-2271972531.jpg] 
+   ! [adios][(https://www.shutterstock.com/image-vector/young-smiling-man-greeting-gesture-600nw-2271972531.jpg)https://www.shutterstock.com/image-vector/young-smiling-man-greeting-gesture-600nw-2271972531.jpg] 
