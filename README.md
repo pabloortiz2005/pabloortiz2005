@@ -9,6 +9,14 @@
 - CSS
 - JS
 - MYSQL
+- C#
+- Pithon
+- Kotlin
+## Otros Conocoimientos
+
+- Windows Administrador
+- Linux Administrador
+- AWS
 
 ### Sobre mi
 
