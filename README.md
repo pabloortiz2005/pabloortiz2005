@@ -7,12 +7,17 @@
 - JAVA
 - HTML
 - CSS
-- JS
+- JAVASCRIPT
+- JSON
 - MYSQL
 - C#
 - Pithon
 - Kotlin
-## Otros Conocoimientos
+- Hibernate
+- JavaFX
+- Java Swing
+  
+## Otros Conocimientos
 
 - Windows Administrador
 - Linux Administrador
@@ -24,6 +29,6 @@
 2. Tengo muchas ganas de aprender
 3. Nunca me rindo
 
-Linkedin : www.linkedin.com/in/pablo-ortiz-muñoz-8a8a6b251
+Linkedin : www.linkedin.com/in/pabloortizpro
 
    ![adios](adios.webp) 
