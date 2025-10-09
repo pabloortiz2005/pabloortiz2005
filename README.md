@@ -1,6 +1,6 @@
 # Buenas, mi nombre es **Pablo** 🖐️🖐️🖐️
 
-### Soy tecnico en sistemas microinformaticos y redes, actualmente estoy cursando desarrollo de aplicaciones multiplataforma.
+### Soy tecnico en programación de aplicaciones multiplataformas y en sistemas microinformaticos y redes, actualmente estoy cursando Ciberseguridad.
 
 ## Estoy formandome en los siguientes campos:
 
