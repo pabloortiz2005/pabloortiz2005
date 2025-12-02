@@ -2,7 +2,7 @@
 
 ### Soy tecnico en programación de aplicaciones multiplataformas y en sistemas microinformaticos y redes, actualmente estoy cursando Ciberseguridad.
 
-## Estoy formandome en los siguientes campos:
+## Estoy formado en los siguientes campos:
 
 - JAVA
 - HTML
