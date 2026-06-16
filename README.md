@@ -75,19 +75,4 @@ Tengo experiencia en programación con **Java, Kotlin, C# y Python**, y en el á
 
 ---
 
-## 📈 Estadísticas GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff&bg_color=1A1F2E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=00C9A7&text_color=ffffff&bg_color=1A1F2E)
-
-</div>
-
----
-
-<div align="center">
-
-*"La seguridad no es un producto, es un proceso."* — Bruce Schneier
-
 </div>
