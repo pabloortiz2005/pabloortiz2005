@@ -19,7 +19,6 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Téc
 - 🔐 Especializado en **ciberseguridad ofensiva y defensiva**: análisis forense, pentesting y detección de intrusiones
 - 🚀 Siempre buscando nuevos retos técnicos y aprendiendo continuamente
 - 🤝 Disponibilidad inmediata para incorporarme a un equipo
-- 💡 Lema: *nunca me rindo*
 
 ---
 
@@ -83,6 +82,6 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Téc
 
 <div align="center">
 
-*"La seguridad no es un producto, es un proceso."* — Bruce Schneier
+
 
 </div>
