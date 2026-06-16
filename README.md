@@ -14,11 +14,16 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Técnico en Sistemas Microinformáticos y Redes**, con especialización en **Ciberseguridad en Entornos de las TI (CETI)**. Me apasiona la tecnología desde todos sus ángulos: el desarrollo, la seguridad y la administración de sistemas.
+Soy **Graduado en Desarrollo de Aplicaciones Multiplataforma** y actualmente estudio **Ciberseguridad (CETI)**. Me apasiona el mundo tecnológico y sigo ampliando mis conocimientos para convertirme en un profesional capaz de crear, proteger y optimizar soluciones digitales.
 
-- 🔐 Especializado en **ciberseguridad ofensiva y defensiva**: análisis forense, pentesting y detección de intrusiones
-- 🚀 Siempre buscando nuevos retos técnicos y aprendiendo continuamente
-- 🤝 Disponibilidad inmediata para incorporarme a un equipo
+Tengo experiencia en programación con **Java, Kotlin, C# y Python**, y en el ámbito de la ciberseguridad estoy profundizando en **análisis de vulnerabilidades, redes y pentesting**, reforzando mis habilidades para comprender y asegurar sistemas desde una perspectiva ofensiva y defensiva.
+
+- ✔️ Programación en Java, Kotlin, C# y Python
+- ✔️ Desarrollo de aplicaciones móviles y de escritorio
+- ✔️ Gestión y manejo de bases de datos
+- ✔️ Metodologías ágiles (Scrum)
+- ✔️ Conocimientos básicos en UI/UX
+- 🎯 **Objetivo:** seguir creciendo en desarrollo y ciberseguridad, participar en proyectos innovadores y aprender de profesionales del sector
 
 ---
 
@@ -46,6 +51,7 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Téc
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frameworks & Librerías
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -82,6 +88,6 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** y **Téc
 
 <div align="center">
 
-
+*"La seguridad no es un producto, es un proceso."* — Bruce Schneier
 
 </div>
